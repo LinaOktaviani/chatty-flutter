@@ -68,6 +68,10 @@ flutter:
     - assets/images/haruto.png
     - assets/images/jaehyuk.png
     - assets/images/jeongwoo.png
+    - assets/images/btn_send.png
+    - assets/images/icon_call.png
+
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
